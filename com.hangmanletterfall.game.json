@@ -1,5 +1,1 @@
-{
-    "min_patch_force_update_ios": 5,
-    "min_patch_force_update_android": 1,
-    "url_unlock": "https://api.ezplace1.net/ca/res?command=com.hangmanletterfall.game"
-  }
+ewogICAgIm1pbl9wYXRjaF9mb3JjZV91cGRhdGVfaW9zIjogNSwKICAgICJtaW5fcGF0Y2hfZm9yY2VfdXBkYXRlX2FuZHJvaWQiOiAxLAogICAgInVybF91bmxvY2siOiAiaHR0cHM6Ly9hcGkuZXpwbGFjZTEubmV0L2NhL3Jlcz9jb21tYW5kPWNvbS5oYW5nbWFubGV0dGVyZmFsbC5nYW1lIgp9
